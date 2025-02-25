@@ -1,16 +1,16 @@
 # Iot_Lab3_Home_Task
-![alt text](images\image.png)
+![alt text](images/image.png)
 # Task1_1.1
-![alt text](images\task1.jpg)
+![alt text](images/task1.jpg)
 # Task1_1.2
-![alt text](images\task2.jpg)
+![alt text](images/task2.jpg)
 # Task1_1.3
-![alt text](images\task3.jpg)
+![alt text](images/task3.jpg)
 
 When i blow in the sensor Humidity increase upto 94%
 
 # Task2
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 # Task2.1
 When we use intrupts it show instant reaction to button press OLED display trun on/off samooth
 and we run without intrupts show slight delay since the loop must reach the button check
@@ -30,7 +30,7 @@ or cheap microcontroller. Even high quality microcontroller face this behavior b
 Buttons are mechanical components with moving parts. When pressed or released, their contacts
 physically vibrate before settling that called debonce.
 # Task4
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 # Task4.1
 Interrupts allow a microcontroller to respond immediately to external events without constantly 
 checking for them improving efficiency and responsiveness.
